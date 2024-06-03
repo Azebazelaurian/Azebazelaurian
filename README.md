@@ -1,6 +1,6 @@
 -👋 Hi, I’m Azebaze Laurian
 - 👀 I’m interested in elliptic curve cryptography 
-- 🌱 I’m currently learning pairing optimization for isogeny-based cryptography 
+- 🌱 I’m currently learning pairing optimizations for isogeny-based cryptography 
 - 💞️ I’m looking to collaborate on isogeny-based cryptography 
 - 📫 How to reach me through my email address azebazelaurian@yahoo.fr
 - 😄 Pronouns: Laurian 
